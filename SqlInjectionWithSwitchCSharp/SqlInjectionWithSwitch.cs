@@ -10,11 +10,10 @@ namespace SqlInjectionWithSwitch
     {
         static void Main(string[] args)
         {
-            String a = Console.ReadLine();
-            doSomethingAwesome(true, 0, 1, a);
+            doSomethingAwesome(true, 0, 1, Console.ReadLine());
             doSomethingAwesome(false, 2, 3, Console.ReadLine());
             fakeYouOut("Haha!", 1);
-            doSomethingAwesome(true, 1, 1, a);
+            doSomethingAwesome(true, 1, 1, Console.ReadLine());
             doSomethingAwesome(false, 0, 10, Console.ReadLine());
         }
 
