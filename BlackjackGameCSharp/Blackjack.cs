@@ -4,7 +4,8 @@ namespace BlackjackGame {
     class Blackjack {
         static void Main(string[] args)
         {
-            new Menus().printMainMenu();
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            new Menus().PrintMainMenu();
         }
     }
 }
