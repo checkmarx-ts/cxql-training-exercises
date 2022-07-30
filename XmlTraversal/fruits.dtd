@@ -1,3 +1,0 @@
-<!ELEMENT fruits (fruit+)>
-<!ELEMENT fruit (#PCDATA)>
-<!ATTLIST fruit countryOfOrigin NMTOKEN #REQUIRED>
