@@ -1,27 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <crops>
     <fruits>
         <fruit countryOfOrigin="Kazakhstan">Apple</fruit>
         <fruit countryOfOrigin="Indonesia">Banana</fruit>
         <fruit countryOfOrigin="Malaysia">Durian</fruit>
         <fruit countryOfOrigin="Syria">Grape</fruit>
-        <fruit countryOfOrigin="China">Peach<fruit>
-        <fruit countryOfOrigin="Greece">Pear<fruit>
-        <fruit countryOfOrigin="Brazil">Pineapple<fruit>
+        <fruit countryOfOrigin="China">Peach</fruit>
+        <fruit countryOfOrigin="Greece">Pear</fruit>
+        <fruit countryOfOrigin="Brazil">Pineapple</fruit>
         <fruit countryOfOrigin="New Guinea">Sugarcane</fruit>
         <fruit countryOfOrigin="Mexico">Tomato</fruit>
-        <fruit countryOfOrigin="Egypt">Watermelon<fruit>
+        <fruit countryOfOrigin="Egypt">Watermelon</fruit>
     </fruits>
     <vegetables>
-        <vegetable countryOfOrigin="Italy">Asparagus<vegetable>
-        <vegetable countryOfOrigin="Italy">Broccoli<vegetable>
-        <vegetable countryOfOrigin="China">Cabbage<vegetable>
-        <vegetable countryOfOrigin="Iran">Carrot<vegetable>
-        <vegetable countryOfOrigin="Mexico">Corn<vegetable>
-        <vegetable countryOfOrigin="Kyrgyzstan">Garlic<vegetable>
-        <vegetable countryOfOrigin="Egypt">Mustard<vegetable>
-        <vegetable countryOfOrigin="Iran">Onion<vegetable>
-        <vegetable countryOfOrigin="Peru">Potato<vegetable>
-        <vegetable countryOfOrigin="China">Radish<vegetable>
-        <vegetable countryOfOrigin="Greece">Watercress<vegetable>
+        <vegetable countryOfOrigin="Italy">Asparagus</vegetable>
+        <vegetable countryOfOrigin="Italy">Broccoli</vegetable>
+        <vegetable countryOfOrigin="China">Cabbage</vegetable>
+        <vegetable countryOfOrigin="Iran">Carrot</vegetable>
+        <vegetable countryOfOrigin="Mexico">Corn</vegetable>
+        <vegetable countryOfOrigin="Kyrgyzstan">Garlic</vegetable>
+        <vegetable countryOfOrigin="Egypt">Mustard</vegetable>
+        <vegetable countryOfOrigin="Iran">Onion</vegetable>
+        <vegetable countryOfOrigin="Peru">Potato</vegetable>
+        <vegetable countryOfOrigin="China">Radish</vegetable>
+        <vegetable countryOfOrigin="Greece">Watercress</vegetable>
     </vegetables>
 </crops>
