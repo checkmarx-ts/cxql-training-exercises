@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wb:countries page="1" pages="1" per_page="50" total="28" xmlns:wb="http://www.worldbank.org">
+  <wb:country id="AFG">
+    <wb:iso2Code>AF</wb:iso2Code>
+    <wb:name>Afghanistan</wb:name>
+    <wb:region id="SAS" iso2code="8S">South Asia</wb:region>
+    <wb:adminregion id="SAS" iso2code="8S">South Asia</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Kabul</wb:capitalCity>
+    <wb:longitude>69.1761</wb:longitude>
+    <wb:latitude>34.5228</wb:latitude>
+  </wb:country>
+  <wb:country id="BDI">
+    <wb:iso2Code>BI</wb:iso2Code>
+    <wb:name>Burundi</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Bujumbura</wb:capitalCity>
+    <wb:longitude>29.3639</wb:longitude>
+    <wb:latitude>-3.3784</wb:latitude>
+  </wb:country>
+  <wb:country id="BFA">
+    <wb:iso2Code>BF</wb:iso2Code>
+    <wb:name>Burkina Faso</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Ouagadougou</wb:capitalCity>
+    <wb:longitude>-1.53395</wb:longitude>
+    <wb:latitude>12.3605</wb:latitude>
+  </wb:country>
+  <wb:country id="CAF">
+    <wb:iso2Code>CF</wb:iso2Code>
+    <wb:name>Central African Republic</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Bangui</wb:capitalCity>
+    <wb:longitude>21.6407</wb:longitude>
+    <wb:latitude>5.63056</wb:latitude>
+  </wb:country>
+  <wb:country id="COD">
+    <wb:iso2Code>CD</wb:iso2Code>
+    <wb:name>Congo, Dem. Rep.</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Kinshasa</wb:capitalCity>
+    <wb:longitude>15.3222</wb:longitude>
+    <wb:latitude>-4.325</wb:latitude>
+  </wb:country>
+  <wb:country id="ERI">
+    <wb:iso2Code>ER</wb:iso2Code>
+    <wb:name>Eritrea</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Asmara</wb:capitalCity>
+    <wb:longitude>38.9183</wb:longitude>
+    <wb:latitude>15.3315</wb:latitude>
+  </wb:country>
+  <wb:country id="ETH">
+    <wb:iso2Code>ET</wb:iso2Code>
+    <wb:name>Ethiopia</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Addis Ababa</wb:capitalCity>
+    <wb:longitude>38.7468</wb:longitude>
+    <wb:latitude>9.02274</wb:latitude>
+  </wb:country>
+  <wb:country id="GIN">
+    <wb:iso2Code>GN</wb:iso2Code>
+    <wb:name>Guinea</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Conakry</wb:capitalCity>
+    <wb:longitude>-13.7</wb:longitude>
+    <wb:latitude>9.51667</wb:latitude>
+  </wb:country>
+  <wb:country id="GMB">
+    <wb:iso2Code>GM</wb:iso2Code>
+    <wb:name>Gambia, The</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Banjul</wb:capitalCity>
+    <wb:longitude>-16.5885</wb:longitude>
+    <wb:latitude>13.4495</wb:latitude>
+  </wb:country>
+  <wb:country id="GNB">
+    <wb:iso2Code>GW</wb:iso2Code>
+    <wb:name>Guinea-Bissau</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Bissau</wb:capitalCity>
+    <wb:longitude>-15.1804</wb:longitude>
+    <wb:latitude>11.8037</wb:latitude>
+  </wb:country>
+  <wb:country id="LBR">
+    <wb:iso2Code>LR</wb:iso2Code>
+    <wb:name>Liberia</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Monrovia</wb:capitalCity>
+    <wb:longitude>-10.7957</wb:longitude>
+    <wb:latitude>6.30039</wb:latitude>
+  </wb:country>
+  <wb:country id="MDG">
+    <wb:iso2Code>MG</wb:iso2Code>
+    <wb:name>Madagascar</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Antananarivo</wb:capitalCity>
+    <wb:longitude>45.7167</wb:longitude>
+    <wb:latitude>-20.4667</wb:latitude>
+  </wb:country>
+  <wb:country id="MLI">
+    <wb:iso2Code>ML</wb:iso2Code>
+    <wb:name>Mali</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Bamako</wb:capitalCity>
+    <wb:longitude>-7.50034</wb:longitude>
+    <wb:latitude>13.5667</wb:latitude>
+  </wb:country>
+  <wb:country id="MOZ">
+    <wb:iso2Code>MZ</wb:iso2Code>
+    <wb:name>Mozambique</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Maputo</wb:capitalCity>
+    <wb:longitude>32.5713</wb:longitude>
+    <wb:latitude>-25.9664</wb:latitude>
+  </wb:country>
+  <wb:country id="MWI">
+    <wb:iso2Code>MW</wb:iso2Code>
+    <wb:name>Malawi</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Lilongwe</wb:capitalCity>
+    <wb:longitude>33.7703</wb:longitude>
+    <wb:latitude>-13.9899</wb:latitude>
+  </wb:country>
+  <wb:country id="NER">
+    <wb:iso2Code>NE</wb:iso2Code>
+    <wb:name>Niger</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Niamey</wb:capitalCity>
+    <wb:longitude>2.1073</wb:longitude>
+    <wb:latitude>13.514</wb:latitude>
+  </wb:country>
+  <wb:country id="PRK">
+    <wb:iso2Code>KP</wb:iso2Code>
+    <wb:name>Korea, Dem. People's Rep.</wb:name>
+    <wb:region id="EAS" iso2code="Z4">East Asia &amp; Pacific</wb:region>
+    <wb:adminregion id="EAP" iso2code="4E">East Asia &amp; Pacific (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="LNX" iso2code="XX">Not classified</wb:lendingType>
+    <wb:capitalCity>Pyongyang</wb:capitalCity>
+    <wb:longitude>125.754</wb:longitude>
+    <wb:latitude>39.0319</wb:latitude>
+  </wb:country>
+  <wb:country id="RWA">
+    <wb:iso2Code>RW</wb:iso2Code>
+    <wb:name>Rwanda</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Kigali</wb:capitalCity>
+    <wb:longitude>30.0587</wb:longitude>
+    <wb:latitude>-1.95325</wb:latitude>
+  </wb:country>
+  <wb:country id="SDN">
+    <wb:iso2Code>SD</wb:iso2Code>
+    <wb:name>Sudan</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Khartoum</wb:capitalCity>
+    <wb:longitude>32.5363</wb:longitude>
+    <wb:latitude>15.5932</wb:latitude>
+  </wb:country>
+  <wb:country id="SLE">
+    <wb:iso2Code>SL</wb:iso2Code>
+    <wb:name>Sierra Leone</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Freetown</wb:capitalCity>
+    <wb:longitude>-13.2134</wb:longitude>
+    <wb:latitude>8.4821</wb:latitude>
+  </wb:country>
+  <wb:country id="SOM">
+    <wb:iso2Code>SO</wb:iso2Code>
+    <wb:name>Somalia</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Mogadishu</wb:capitalCity>
+    <wb:longitude>45.3254</wb:longitude>
+    <wb:latitude>2.07515</wb:latitude>
+  </wb:country>
+  <wb:country id="SSD">
+    <wb:iso2Code>SS</wb:iso2Code>
+    <wb:name>South Sudan</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Juba</wb:capitalCity>
+    <wb:longitude>31.6</wb:longitude>
+    <wb:latitude>4.85</wb:latitude>
+  </wb:country>
+  <wb:country id="SYR">
+    <wb:iso2Code>SY</wb:iso2Code>
+    <wb:name>Syrian Arab Republic</wb:name>
+    <wb:region id="MEA" iso2code="ZQ">Middle East &amp; North Africa</wb:region>
+    <wb:adminregion id="MNA" iso2code="XQ">Middle East &amp; North Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Damascus</wb:capitalCity>
+    <wb:longitude>36.3119</wb:longitude>
+    <wb:latitude>33.5146</wb:latitude>
+  </wb:country>
+  <wb:country id="TCD">
+    <wb:iso2Code>TD</wb:iso2Code>
+    <wb:name>Chad</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>N'Djamena</wb:capitalCity>
+    <wb:longitude>15.0445</wb:longitude>
+    <wb:latitude>12.1048</wb:latitude>
+  </wb:country>
+  <wb:country id="TGO">
+    <wb:iso2Code>TG</wb:iso2Code>
+    <wb:name>Togo</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Lome</wb:capitalCity>
+    <wb:longitude>1.2255</wb:longitude>
+    <wb:latitude>6.1228</wb:latitude>
+  </wb:country>
+  <wb:country id="UGA">
+    <wb:iso2Code>UG</wb:iso2Code>
+    <wb:name>Uganda</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Kampala</wb:capitalCity>
+    <wb:longitude>32.5729</wb:longitude>
+    <wb:latitude>0.314269</wb:latitude>
+  </wb:country>
+  <wb:country id="YEM">
+    <wb:iso2Code>YE</wb:iso2Code>
+    <wb:name>Yemen, Rep.</wb:name>
+    <wb:region id="MEA" iso2code="ZQ">Middle East &amp; North Africa</wb:region>
+    <wb:adminregion id="MNA" iso2code="XQ">Middle East &amp; North Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Sana'a</wb:capitalCity>
+    <wb:longitude>44.2075</wb:longitude>
+    <wb:latitude>15.352</wb:latitude>
+  </wb:country>
+  <wb:country id="ZMB">
+    <wb:iso2Code>ZM</wb:iso2Code>
+    <wb:name>Zambia</wb:name>
+    <wb:region id="SSF" iso2code="ZG">Sub-Saharan Africa </wb:region>
+    <wb:adminregion id="SSA" iso2code="ZF">Sub-Saharan Africa (excluding high income)</wb:adminregion>
+    <wb:incomeLevel id="LIC" iso2code="XM">Low income</wb:incomeLevel>
+    <wb:lendingType id="IDX" iso2code="XI">IDA</wb:lendingType>
+    <wb:capitalCity>Lusaka</wb:capitalCity>
+    <wb:longitude>28.2937</wb:longitude>
+    <wb:latitude>-15.3982</wb:latitude>
+  </wb:country>
+</wb:countries>
